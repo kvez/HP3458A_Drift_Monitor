@@ -2,7 +2,7 @@
 
 A program a HP 3458A digitális multiméter **A3 ADC board-ján elhelyezett U180 jelű IC**
 hosszú távú stabilitásának vizsgálatára szolgál. Óránkénti ACAL DCV kalibrációs ciklust
-hajt végre, és ACAL során rögzíti a hőmérsäkletet és a CAL72 kalibrációs értéket.
+hajt végre, és ACAL során rögzíti a hőmérsékletet és a CAL72 kalibrációs értéket.
 Az így kapott idősorozatból következtetni lehet a műszer driftjének mértékére
 és annak hőmérséklet-függésére.
 
